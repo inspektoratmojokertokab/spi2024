@@ -2,6 +2,19 @@ body {
   --grey: #f4f5f7;
 }
 
+body {
+  font-size: 1.4em;
+}
+
+.container {
+  padding: 0 32px !important;
+}
+
+p {
+  line-height: 1.75em;
+  font-size: 1.2em;
+}
+
 .partisipasi,
 .contact {
   background-color: var(--grey);

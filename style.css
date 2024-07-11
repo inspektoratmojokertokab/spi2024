@@ -1,0 +1,8 @@
+body {
+  --grey: #f4f5f7;
+}
+
+.partisipasi,
+.contact {
+  background-color: var(--grey);
+}
